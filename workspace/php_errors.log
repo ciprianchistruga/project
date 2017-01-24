@@ -1,0 +1,57 @@
+[29-Dec-2016 11:35:53 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[29-Dec-2016 11:35:53 UTC] PHP Stack trace:
+[29-Dec-2016 11:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[29-Dec-2016 11:35:53 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[29-Dec-2016 11:36:13 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[29-Dec-2016 11:36:13 UTC] PHP Stack trace:
+[29-Dec-2016 11:36:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[29-Dec-2016 11:36:13 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[29-Dec-2016 11:37:14 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[29-Dec-2016 11:37:14 UTC] PHP Stack trace:
+[29-Dec-2016 11:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[29-Dec-2016 11:37:14 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[29-Dec-2016 11:38:04 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[29-Dec-2016 11:38:04 UTC] PHP Stack trace:
+[29-Dec-2016 11:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[29-Dec-2016 11:38:04 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[30-Dec-2016 13:45:46 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/homeCategories.xml" in /home/ubuntu/workspace/php/AddCategory.php on line 23
+[30-Dec-2016 13:45:46 UTC] PHP Stack trace:
+[30-Dec-2016 13:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/AddCategory.php:0
+[30-Dec-2016 13:45:46 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/AddCategory.php:23
+[30-Dec-2016 13:45:46 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/php/AddCategory.php on line 25
+[30-Dec-2016 13:45:46 UTC] PHP Stack trace:
+[30-Dec-2016 13:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/AddCategory.php:0
+[30-Dec-2016 13:45:46 UTC] PHP Fatal error:  Call to undefined method stdClass::asXML() in /home/ubuntu/workspace/php/AddCategory.php on line 30
+[30-Dec-2016 13:45:46 UTC] PHP Stack trace:
+[30-Dec-2016 13:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/AddCategory.php:0
+[04-Jan-2017 12:24:27 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[04-Jan-2017 12:24:27 UTC] PHP Stack trace:
+[04-Jan-2017 12:24:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 12:24:27 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[04-Jan-2017 12:24:43 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[04-Jan-2017 12:24:43 UTC] PHP Stack trace:
+[04-Jan-2017 12:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 12:24:43 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[04-Jan-2017 12:25:17 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[04-Jan-2017 12:25:17 UTC] PHP Stack trace:
+[04-Jan-2017 12:25:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 12:25:17 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[04-Jan-2017 12:27:42 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 2
+[04-Jan-2017 12:27:42 UTC] PHP Stack trace:
+[04-Jan-2017 12:27:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 12:27:42 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:2
+[04-Jan-2017 13:04:48 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 3
+[04-Jan-2017 13:04:48 UTC] PHP Stack trace:
+[04-Jan-2017 13:04:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 13:04:48 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:3
+[04-Jan-2017 13:05:39 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 3
+[04-Jan-2017 13:05:39 UTC] PHP Stack trace:
+[04-Jan-2017 13:05:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 13:05:39 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:3
+[04-Jan-2017 13:10:41 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity "xml/SearchKeywords.xml" in /home/ubuntu/workspace/php/Search.php on line 3
+[04-Jan-2017 13:10:41 UTC] PHP Stack trace:
+[04-Jan-2017 13:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0
+[04-Jan-2017 13:10:41 UTC] PHP   2. simplexml_load_file() /home/ubuntu/workspace/php/Search.php:3
+[04-Jan-2017 13:10:41 UTC] PHP Fatal error:  Call to a member function children() on a non-object in /home/ubuntu/workspace/php/Search.php on line 8
+[04-Jan-2017 13:10:41 UTC] PHP Stack trace:
+[04-Jan-2017 13:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/Search.php:0

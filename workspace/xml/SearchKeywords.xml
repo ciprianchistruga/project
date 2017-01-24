@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<search>
+    
+    <home>
+        <keywords>home categories</keywords>
+        <url>home</url>
+        <variable>single</variable>
+    </home>
+    
+    <sanitation>
+         <keywords>sanitation</keywords>
+        <url>threads</url>
+        <url2>sanitationThreads</url2>
+        <variable>double</variable>
+    </sanitation>
+    
+    <animal>
+         <keywords>animal colection control animal control</keywords>
+        <url>threads</url>
+        <url2>animalThreads</url2>
+        <variable>double</variable>
+    </animal>
+    
+    <civilRights>
+         <keywords>civilrights civil rights</keywords>
+        <url>threads</url>
+        <url2>civilRightsThreads</url2>
+        <variable>double</variable>
+    </civilRights>
+    
+    <pollution>
+         <keywords>pollution</keywords>
+        <url>threads</url>
+        <url2>pollutionThreads</url2>
+        <variable>double</variable>
+    </pollution>
+    
+    <utilities>
+         <keywords>utilities water electricity</keywords>
+        <url>threads</url>
+        <url2>utilitiesThreads</url2>
+        <variable>double</variable>
+    </utilities>
+    
+    <other>
+         <keywords>other</keywords>
+        <url>threads</url>
+        <url2>otherThreads</url2>
+        <variable>double</variable>
+    </other>
+    
+    <addCategory>
+         <keywords>add category</keywords>
+        <url>addCategory</url>
+        <variable>single</variable>
+    </addCategory>
+    
+    <addThread>
+         <keywords>add threads</keywords>
+        <url>addThread</url>
+        <variable>single</variable>
+    </addThread>
+    
+    <signup>
+        <keywords>signup sign up</keywords>
+        <url>signup</url>
+        <variable>single</variable>
+    </signup>
+    
+    <contact>
+        <keywords>contact primaria municipiului iasi adresa address</keywords>
+        <url>contact</url>
+        <variable>single</variable>
+    </contact>
+    
+    <login>
+        <keywords>login log in create account</keywords>
+        <url>login</url>
+        <variable>single</variable>
+    </login>
+    
+</search>

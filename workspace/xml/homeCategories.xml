@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<categories>
+    
+    <Sanitation>
+        <name>Sanitation</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>sanitationThreads</forumThred>
+    </Sanitation>
+    
+    <Pollution>
+        <name>Pollution</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>pollutionThreads</forumThred>
+    </Pollution>
+    
+    <Utilities>
+        <name>Utilities</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>utilitiesThreads</forumThred>
+    </Utilities>
+    
+    <AnimcalCollection>
+        <name>Animcal Collection/Control</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>animalThreads</forumThred>
+    </AnimcalCollection>
+    
+    <CivilRigts>
+        <name>Civil Rigts</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>civilRightsThreads</forumThred>
+    </CivilRigts>
+    
+    <Other>
+        <name>Other</name>
+        <user>Admin</user>
+        <email>admin@email.com</email>
+        <birthday>10/10/1983</birthday>
+        <forumThred>otherThreads</forumThred>
+    </Other>
+</categories>

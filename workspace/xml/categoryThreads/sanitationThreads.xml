@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<sanitation>
+    
+    <Thread1>
+        <title>A test thread for sanitation</title>
+        <dateThread>06.01.2017</dateThread>
+        <author>Admin</author>
+        <status>open</status>
+        <email>admin@email.com</email>
+        <mainComment>A test comment!</mainComment>
+        
+            <comments>
+                 <comment1>
+                     
+                     <name>Batman's</name>
+                     <lastName>Martha</lastName>
+                     <email>user@email.com</email>
+                     <birthday>20.10.1990</birthday>
+                     <currentDate>07.01.2017</currentDate>
+                     <comment>A comment</comment>
+                     
+                 </comment1>
+                 
+                 <comment2>
+                     
+                     <name>Superman's</name>
+                     <lastName>Martha</lastName>
+                     <email>user2@email.com</email>
+                     <birthday>20.10.1990</birthday>
+                     <currentDate>07.01.2017</currentDate>
+                     <comment>A comment 2</comment>
+                     
+                 </comment2>
+         </comments>
+            
+        <allowSocial>true</allowSocial>
+        <allowComments>true</allowComments>
+    </Thread1>
+</sanitation>

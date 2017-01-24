@@ -1,0 +1,59 @@
+.custom-nav-text-color a
+{
+    color: #686868  !important;
+}
+
+.well {
+    border-color: #686868;
+}
+
+.custom-top-position {
+    margin-top:50px;
+}
+
+.custom-footer {
+    padding: 20;
+    background-color: #2d2dd2;
+    color: #F0FFFF;
+}
+
+.glyphicon-plus {
+    font-size: 30px;
+}
+
+@media screen and (max-width: 1000px) {
+    .to-disappear {
+        visibility: hidden;
+        display: none;
+    }
+}
+
+#map {
+        height: 200px;
+        width: 100%;
+       }
+
+.custom-map {
+    height: 200px;
+    width: 100%;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}

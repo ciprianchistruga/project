@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Users>
+    <Admin>
+        <firstName>Admin</firstName>
+        <lastName>Admin</lastName>
+        <address>str 1, Anonym</address>
+        <email>admin@email.com</email>
+        <password>noprotection</password>
+    </Admin>
+</Users>

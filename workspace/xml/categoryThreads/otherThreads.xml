@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<other>
+    
+    <Thread1>
+        <title>A test thread for other</title>
+        <dateThread>06.01.2017</dateThread>
+        <author>Admin</author>
+        <status>open</status>
+        <email>admin@email.com</email>
+        <mainComment>A test comment!</mainComment>
+        <allowSocial>true</allowSocial>
+        <allowComments>true</allowComments>
+    </Thread1>
+</other>
